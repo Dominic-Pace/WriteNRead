@@ -20,6 +20,9 @@ int main() {
 
     // 3. Read the file and console log the results.
     readFile(fileName);
+    
+    // 4. Exit the program.
+    return 0;
 }
 
 /**
